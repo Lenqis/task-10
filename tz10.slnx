@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="tz10/tz10.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
